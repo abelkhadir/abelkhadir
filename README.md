@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm a **Full-Stack** Developer at Zone01 Oujda where I’ve worked on various projects, both independently and collaboratively. <br><br>🤖 I’ve built multiple personal AI projects and actively practice cybersecurity as a member of **CyberZ at Zone01 Oujda** and on **Hack The Box**.  <br><br>🎯 I’m passionate about continuing my journey to become a **Penetration tester**.
+👨‍💻 I'm a **Full-Stack** Developer at Zone01 Oujda where I’ve worked on various projects, both independently and collaboratively. <br><br>🤖 I’ve built multiple personal **AI projects** and actively practice **cybersecurity** as a member of **CyberZ at Zone01 Oujda** and on **Hack The Box**.  <br><br>🎯 I’m passionate about continuing my journey to become a **Penetration tester**.
 
 
 ## 🌐 Socials:
