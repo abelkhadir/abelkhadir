@@ -1,1 +1,1 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelilah%20Belkhadir-blue?logo=linkedin)](https://ma.linkedin.com/in/abdelilah-belkhadir-123779340)
+[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://ma.linkedin.com/in/abdelilah-belkhadir-123779340)
