@@ -1,6 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm a **Full-Stack** Developer at Zone01 Oujda where I’ve worked on various projects, both independently and collaboratively. <br><br>🤖 I’ve built multiple personal **AI projects** and actively practice **cybersecurity** as a member of **CyberZ at Zone01 Oujda** and on **Hack The Box**.  <br><br>🎯 I’m passionate about continuing my journey to become a **Penetration tester**.
-
+👨‍💻 I'm a **Full-Stack** Developer at Zone01 Oujda and Bug bounty hunter at Intigriti
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/904451778223951882) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelilah-belkhadir) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@0xglss) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abelkhadir0@gmail.com) 
