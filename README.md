@@ -1,9 +1,10 @@
 # 💫 About Me:
-👨‍💻 I'm a **Full-Stack** Developer at Zone01 Oujda and Bug bounty hunter at Intigriti
+👨‍💻 I'm a **Full-Stack** Developer at Zone01 Oujda and a Bug bounty hunter
 
 Profiles:
 
 [HackerOne](https://hackerone.com/0xglss?type=user)
+
 [Intigriti](https://app.intigriti.com/researcher/profile/race_condition)
 
 ## 🌐 Socials:
