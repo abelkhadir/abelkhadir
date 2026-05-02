@@ -1,6 +1,11 @@
 # 💫 About Me:
 👨‍💻 I'm a **Full-Stack** Developer at Zone01 Oujda and Bug bounty hunter at Intigriti
 
+Profiles:
+
+[HackerOne](https://hackerone.com/0xglss?type=user)
+[Intigriti](https://app.intigriti.com/researcher/profile/race_condition)
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/904451778223951882) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelilah-belkhadir) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@0xglss) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abelkhadir0@gmail.com) 
 
